@@ -25,11 +25,19 @@ It sits in your menu bar as a small icon. When a song changes, it slides in, sho
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Screenshots
 
-| Widget (floating) | Settings panel |
-|---|---|
-| Album art · Title · Artist · Progress bar · Controls | Position grid · Size · Auto-launch · Duration |
+### Floating Widget — song playing
+<img src="screenshots/widget_playing.png" width="420" alt="YTMusic Widget playing a song" />
+
+### Floating Widget — paused
+<img src="screenshots/widget_paused.png" width="420" alt="YTMusic Widget paused" />
+
+### Settings Panel
+<img src="screenshots/settings_panel.png" width="380" alt="Settings panel — dimensions and behaviour" />
+
+### Chrome Extension card
+<img src="screenshots/extension_card.png" width="420" alt="Extension loaded in Chrome" />
 
 ---
 
@@ -339,4 +347,4 @@ GitHub: [arielcavadia1](https://github.com/arielcavadia1)
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 Ariel Cavadia
+[MIT](LICENSE) © 2026 Ariel Cavadia
