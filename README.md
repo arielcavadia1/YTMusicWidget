@@ -28,16 +28,16 @@ It sits in your menu bar as a small icon. When a song changes, it slides in, sho
 ## 🖼️ Screenshots
 
 ### Floating Widget — song playing
-<img src="screenshots/widget_playing.png" width="420" alt="YTMusic Widget playing a song" />
+![YTMusic Widget playing](https://raw.githubusercontent.com/arielcavadia1/YTMusicWidget/main/screenshots/widget_playing.png)
 
 ### Floating Widget — paused
-<img src="screenshots/widget_paused.png" width="420" alt="YTMusic Widget paused" />
+![YTMusic Widget paused](https://raw.githubusercontent.com/arielcavadia1/YTMusicWidget/main/screenshots/widget_paused.png)
 
 ### Settings Panel
-<img src="screenshots/settings_panel.png" width="380" alt="Settings panel — dimensions and behaviour" />
+![Settings panel](https://raw.githubusercontent.com/arielcavadia1/YTMusicWidget/main/screenshots/settings_panel.png)
 
 ### Chrome Extension card
-<img src="screenshots/extension_card.png" width="420" alt="Extension loaded in Chrome" />
+![Extension loaded in Chrome](https://raw.githubusercontent.com/arielcavadia1/YTMusicWidget/main/screenshots/extension_card.png)
 
 ---
 
