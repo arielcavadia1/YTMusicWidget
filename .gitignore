@@ -1,0 +1,16 @@
+# Swift build artifacts
+floating-widget/.build/
+floating-widget/*.resolved
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# Editor
+.vscode/
+.idea/
