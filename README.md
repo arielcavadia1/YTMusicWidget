@@ -339,7 +339,7 @@ Please open an issue first to discuss what you'd like to change.
 
 ## 📬 Contact
 
-Built by **Ariel Cavadia**  
+Built by **Ariel E. Castro Cavadia**  
 Telegram: [@arielcavadia1](https://t.me/arielcavadia1)  
 GitHub: [arielcavadia1](https://github.com/arielcavadia1)
 
@@ -347,4 +347,4 @@ GitHub: [arielcavadia1](https://github.com/arielcavadia1)
 
 ## 📄 License
 
-[MIT](LICENSE) © 2026 Ariel Cavadia
+[MIT](LICENSE) © 2026 Ariel E. Castro Cavadia
